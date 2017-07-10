@@ -36,7 +36,7 @@
 		{
 			out.println("Success");
                         %>
-                        <a href="index.jsp">Click here to login</a>
+                        <a href="index.html">Click here to login</a>
                         <%
                 }
 	}
